@@ -34,18 +34,19 @@ Strikethrough uses two tildes. ~~Scratch this~~.
    1. Ordered sub-list
    2. 2nd
 4. And another item.
-   …* note 1
-   …* note 2
-   *** note 3
+   - note 1
+     - note 2
+       - note 3
 
 - [ ] todo list
 - [ ] 2nd things
 
+python code
 ```python
 s = "Python syntax highlighting"
 print s
 ```
-
+javascript code
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
