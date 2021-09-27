@@ -29,10 +29,10 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 1. First ordered list item
 2. Another item
-   ⋅⋅* Unordered sub-list.
+   * Unordered sub-list.
 3. Actural numbers don't matter, just that it's a number
-   ⋅⋅1. Ordered sub-list
-   …2. 2nd
+   1. Ordered sub-list
+   2. 2nd
 4. And another item.
    …* note 1
    …* note 2
